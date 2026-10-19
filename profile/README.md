@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><sub><b>English</b> · <a href="https://github.com/CypherGrid/.github/blob/main/profile/README.pt-BR.md">Português (Brasil)</a></sub></p>
+<p align="center"><sub><b>English</b> · <a href="https://github.com/cyphergridbr/.github/blob/main/profile/README.pt-BR.md">Português (Brasil)</a></sub></p>
 
 <p align="center">
   <strong>Continuous authentication through behavioral biometrics.</strong><br>
